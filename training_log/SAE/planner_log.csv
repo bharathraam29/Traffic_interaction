@@ -1,0 +1,2 @@
+episodes,timesteps,collision,success,success_rate
+1,120,False,True,0.016666666666666666
